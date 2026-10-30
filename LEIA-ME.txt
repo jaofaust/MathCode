@@ -1,0 +1,11 @@
+MathCode — Aventura de Plataforma & Matemática (HTML)
+
+Como jogar: dê dois cliques em index.html (abre no navegador).
+Não precisa instalar nada. (A fonte Fredoka precisa de internet; sem ela o jogo usa uma fonte padrão.)
+
+Controles:
+  Mover: A/D ou setas
+  Pular: Espaço ou W
+  Giro: Shift ou X
+
+Seu progresso (moedas, roupinhas e fase) fica salvo no navegador.
